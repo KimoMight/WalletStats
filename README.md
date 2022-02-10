@@ -5,7 +5,7 @@ The place where you can easily visualize and analyze your wallet activity!
 - https://trusting-mahavira-5376df.netlify.app/
 
 # Demo
-- placeholder
+- https://www.youtube.com/watch?v=KQFJ7pPbKzU
 
 # Contact
 - Discord : Manole#6015
